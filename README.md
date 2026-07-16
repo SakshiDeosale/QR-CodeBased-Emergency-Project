@@ -188,14 +188,6 @@ http://localhost:3000
 
 ---
 
-# Backend
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
-
-# Frontend
-REACT_APP_API_URL=http://localhost:5000
-
 ## Deployment
 
 Frontend can be deployed on:
